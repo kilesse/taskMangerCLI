@@ -30,7 +30,7 @@ Isso deve retornar a versão instalada do Elixir.
 ### 1. Clonando o Repositório
 Clone o repositório e navegue até a pasta do projeto:
 ```bash
-git clone "*"
+git clone "git@github.com:kilesse/taskMangerCLI.git"
 cd task_manager_cli
 ```
 
